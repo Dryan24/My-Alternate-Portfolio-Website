@@ -10,3 +10,9 @@
 ![My Alternate Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/My-Alternate-Portfolio-Website.jpg)
 
 Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+
+
+This project was adapted from the above github repo. 
+The sole purpose of this project is to be used as a static website for CS6620 for lab 1.
+Lab 1's requirements suggest adapting the above repo into a portfolio of sorts. 
+It was chosen to modify the html such that it could be used as a simple/crude template. 
